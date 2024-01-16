@@ -1,4 +1,4 @@
-# binary_classification_breast_cancer
+# Binary_Classification_Breast_Cancer
 During their life, among 8% of women are diagnosed with Breast cancer (BC), after lung cancer, BC is the second popular cause of death
 in both developed and undeveloped worlds. BC is characterized by the mutation of genes, constant pain, changes in the size, color(redness),skin texture of breasts. 
 Classification of breast cancer leads pathologists to find a systematic and objective prognostic, generally the most frequent classification is binary (benign cancer/malign cancer). Today, Machine Learning
